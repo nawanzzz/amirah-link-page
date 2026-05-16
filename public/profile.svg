@@ -1,0 +1,25 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Creator portrait">
+  <rect width="320" height="320" rx="160" fill="url(#paint0_radial)"/>
+  <path d="M86 254C97.8 213.5 126.2 194 160 194C193.8 194 222.2 213.5 234 254C215.1 274.6 188.8 287 160 287C131.2 287 104.9 274.6 86 254Z" fill="url(#paint1_linear)" opacity=".96"/>
+  <path d="M111 142C111 91.3 133.2 55 160 55C186.8 55 209 91.3 209 142C209 174.3 187.1 201 160 201C132.9 201 111 174.3 111 142Z" fill="url(#paint2_linear)"/>
+  <path d="M96 141C99.8 89.3 125.9 41 160 41C194.1 41 220.2 89.3 224 141C204.8 123.6 183.8 115 160 115C136.2 115 115.2 123.6 96 141Z" fill="#24111D" opacity=".76"/>
+  <path d="M119 153C131.8 141.9 144.2 136.3 160 136.3C175.8 136.3 188.2 141.9 201 153C193.2 131.4 179.7 119 160 119C140.3 119 126.8 131.4 119 153Z" fill="#F8C8DC" opacity=".24"/>
+  <path d="M83 255C103.9 281.2 130.7 294 160 294C189.3 294 216.1 281.2 237 255" stroke="white" stroke-opacity=".24" stroke-width="2"/>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(103 75) rotate(49.6) scale(267.4)">
+      <stop stop-color="#FFE0EE"/>
+      <stop offset=".39" stop-color="#FF89BE"/>
+      <stop offset=".72" stop-color="#533A83"/>
+      <stop offset="1" stop-color="#160A16"/>
+    </radialGradient>
+    <linearGradient id="paint1_linear" x1="160" y1="194" x2="160" y2="287" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE2EF"/>
+      <stop offset="1" stop-color="#A74D84"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="160" y1="55" x2="160" y2="201" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE6EF"/>
+      <stop offset=".7" stop-color="#F7B3CE"/>
+      <stop offset="1" stop-color="#D980AA"/>
+    </linearGradient>
+  </defs>
+</svg>
