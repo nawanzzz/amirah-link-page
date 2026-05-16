@@ -2,11 +2,15 @@
   "name": "creator-link-page",
   "version": "0.1.0",
   "private": true,
+  "main": "server.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "node server.js",
     "lint": "eslint ."
+  },
+  "engines": {
+    "node": ">=20 <25"
   },
   "dependencies": {
     "next": "^16.2.6",

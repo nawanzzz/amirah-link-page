@@ -54,3 +54,16 @@ For Vercel:
 4. Deploy.
 
 The page works without API credentials by using the manual fallback counts.
+
+For Hostinger Node.js Web Apps:
+
+```text
+Root directory: leave blank or use /
+Install command: npm install
+Build command: npm run build
+Start command: npm run start
+Node version: 20.x, 22.x, or 24.x
+Application port: 3000, unless Hostinger provides PORT automatically
+```
+
+This project includes `server.js` so Hostinger can detect it as a Node.js app.
