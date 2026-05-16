@@ -3,7 +3,7 @@ import "./globals.css";
 import { creator } from "@/config/creator";
 
 export const metadata: Metadata = {
-  title: `${creator.creatorName} | Official Links`,
+  title: creator.creatorName,
   description: creator.bio || `Official links for ${creator.creatorName}.`,
   robots: {
     index: true,
